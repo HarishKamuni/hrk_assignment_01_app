@@ -24,3 +24,4 @@ const barChartSchema = new mongoose.Schema(
 
 const barChartModel = mongoose.model('barChart', barChartSchema);
 module.exports = { barChartModel };
+console.log('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>');
